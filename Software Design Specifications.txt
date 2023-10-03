@@ -1,0 +1,14 @@
+Software Title:
+MyFit App
+
+Team Members:
+Teddy Barker
+Sama Seif
+Wissam Almasri
+Umar Umar
+
+System Overview:
+	MyFit App serves the purpose of giving users the ability to track, monitor, and program their fitness goals by providing a dynamic user experience that solves multiple fitness goals including meal tracking, calorie counting, workout programming, weight monitoring, and goal setting. By utilizing this app and its features, users with the general goal of increasing their physical health and fitness can be achieved no matter what the specificity of their individualized requirements are. Overall, MyFit App aims to see the world become a healthier, happier place.
+
+Software Architecture Overview
+
